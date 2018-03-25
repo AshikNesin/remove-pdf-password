@@ -1,0 +1,24 @@
+{
+  "name": "remove-pdf-password",
+  "version": "0.0.0",
+  "description": "Remove password from your pdf easily",
+  "license": "MIT",
+  "repository": "AshikNesin/remove-pdf-password",
+  "author": {
+    "name": "Ashik Nesin",
+    "email": "mail@ashiknesin.com",
+    "url": "ashiknesin.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {},
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
